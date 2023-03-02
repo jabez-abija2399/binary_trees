@@ -1,6 +1,6 @@
 # C - Binary trees
 
-This was a partner project in which we learned about the details, advantages,
+This was a partner project bu i worked by alone in which we learned about the details, advantages,
 and disadvantages of using trees as data structures. We learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
@@ -257,7 +257,6 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors :black_nib:
+## Author :
 
-* __Brennan Dov Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
-* __Fernando González-Morales__ <[fgonza52](https://github.com/fgonza52)>
+* __yabets kifle__ 
